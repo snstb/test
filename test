@@ -396,16 +396,30 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0, group-title="News",NHK WORLD
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
+
 Lifestyle Channel Lists
 There are 6 Lifestyle Channel.
 
-408 TLC
-409 TLC (HIGH DEFINITION) WORLD
-410 NDTV GOOD TIMES
-412 FOOD FOOD
-413 LIVING FOODZ
-414 TRAVEL XP
-416 FTV
+#EXTINF:0, group-title="Lifestyle",TLC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",TLC (HIGH DEFINITION) WORLD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",NDTV GOOD TIMES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",FOOD FOOD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",LIVING FOODZ HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226329/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",TRAVEL XP
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",FTV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226086/index.m3u8
 
 Infotainment Channel Lists
 There are 15 Infotainment Channel with 5 HD channels
@@ -455,22 +469,41 @@ There are 19 Kids Channel with 1 HD channels
 Music Channel Lists
 There are 14 Music Channel with 1 HD channels
 
-480 MTV
-482 MTV BEATS
-484 9XM
-486 B4U MUSIC
-487 ZEE ETC BOLLYWOOD
-488 MASTIII
-490 E24
-491 SONY MIX
-492 9X JALWA
-495 BINDASS PLAY
-496 ZOOM
-497 CHANNEL [ V ]
-499 MUSIC INDIA
-500 SONY ROX (HIGH DEFINITION)
-507 VH1
-509 9X0
+#EXTINF:0, group-title="Music",MTV
+#EXTINF:0, group-title="Music",MTV BEATS
+#EXTINF:0, group-title="Music",9XM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/index.m3u8
+
+#EXTINF:0, group-title="Music",B4U MUSIC
+http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221226055/index.m3u8
+
+#EXTINF:0, group-title="Music",ZEE ETC BOLLYWOOD
+http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/index.m3u8
+
+#EXTINF:0, group-title="Music",MASTIII
+http://125.17.129.8/wh7f454c46tw4016503803_1353658214/PLTV/88888888/224/3221226021/index.m3u8
+
+#EXTINF:0, group-title="Music",E24
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/index.m3u8
+
+#EXTINF:0, group-title="Music",SONY MIX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
+
+#EXTINF:0, group-title="Music",9X JALWA
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:0, group-title="Music",BINDASS PLAY
+#EXTINF:0, group-title="Music",ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:0, group-title="Music",CHANNEL [ V ]
+#EXTINF:0, group-title="Music",MUSIC INDIA
+#EXTINF:0, group-title="Music",SONY ROX (HIGH DEFINITION)
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
+
+#EXTINF:0, group-title="Music",VH1
+#EXTINF:0, group-title="Music",9X0
+http://125.17.129.14/wh7f454c46tw3808542659_2027187969/PLTV/88888888/224/3221226028/index.m3u8
 
 Marathi Channel Lists
 There are 19 Marathi Channel with 4 HD channels.
