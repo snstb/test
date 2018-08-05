@@ -1,6 +1,5 @@
 #EXTM3U
-
-There are 37 Hindi Entertainment Channel with 7 HD channels.
+here are 37 Hindi Entertainment Channel with 7 HD channels.
 
 #EXTINF:0, group-title="Entertainment",STAR PLUS
 #EXTINF:0, group-title="Entertainment",STAR PLUS (HIGH DEFINITION)
@@ -57,7 +56,7 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226199/index.m3u8
 #EXTINF:0, group-title="Entertainment",BLUE TV NAAPTOL
 
 #EXTINF:0, group-title="Entertainment",ENTER10
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",INVESTIGATION DISCOVERY
 
@@ -65,13 +64,13 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226296/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",DD INDIA
-http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226293/06.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226293/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",DD BHARATI
-http://mhms9.airtel.tv/wh7f454c46tw167550841_1932516860/PLTV/88888888/224/3221226291/04.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw167550841_1932516860/PLTV/88888888/224/3221226291/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",DD KISAN
-http://125.17.129.10/PLTV/88888888/224/3221226294/01.m3u8
+http://125.17.129.10/PLTV/88888888/224/3221226294/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",NAAPTOL BLUE
 
@@ -97,7 +96,7 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Entertainment",COMEDY CENTRAL(HIGH DEFINITION)
 #EXTINF:0, group-title="Entertainment",DISNEY INTERNATIONAL HD
 #EXTINF:0, group-title="Entertainment",TV5 MONDE ASIA
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/1.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/index.m3u8
 
 Hindi Movies Channel List
 There are 32 Hindi Movies Channel with 7 HD channels
@@ -109,7 +108,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/index.m3u8
 
 #EXTINF:0, group-title="Movies",ZEE CINEMA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/index.m3u8
 
 #EXTINF:0, group-title="Movies",ZEE CINEMA (HIGH DEFINITION)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
@@ -154,7 +153,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Movies",SKYSTAR MOVIES
 
 #EXTINF:0, group-title="Movies",MAHA MOVIES
-http://125.17.129.10/PLTV/88888888/224/3221226225/01.m3u8
+http://125.17.129.10/PLTV/88888888/224/3221226225/index.m3u8
 
 #EXTINF:0, group-title="Movies",CINEPLEX (HIGH DEFINITION)
 
@@ -199,10 +198,10 @@ There are 20 Sports Channel with 9 HD channels
 #EXTINF:0, group-title="Sports",STAR SPORTS SELECT 1
 
 #EXTINF:0, group-title="Sports",SONY TEN 1
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
 
 #EXTINF:0, group-title="Sports",SONY TEN 1 (HIGH DEFINITION)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/index.m3u8
 
 #EXTINF:0, group-title="Sports",SONY TEN 2
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
@@ -264,13 +263,13 @@ https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
 
 #EXTINF:0, group-title="News",NEWS NATION
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/index.m3u8
 
 #EXTINF:0, group-title="News",INDIA NEWS
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226085/index.m3u8
 
 #EXTINF:0, group-title="News",NEWS 24
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/index.m3u8
 
 #EXTINF:0, group-title="News",NEWS WORLD INDIA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226034/index.m3u8
@@ -287,7 +286,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_3_av-p.m3u8
 
 #EXTINF:0, group-title="News",ZEE RAJASTHAN NEWS
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225928/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225928/index.m3u8
 
 #EXTINF:0, group-title="News",ETV UP/UTTARAKHAND
 https://etv-up.akamaized.net/i/etv_up_hls_1@175735/index_5_av-p.m3u8
@@ -325,17 +324,17 @@ http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226348/index.m3u8
 
 #EXTINF:0, group-title="News",DD UP
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226383/1.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226383/index.m3u8
 
 #EXTINF:0, group-title="News",DD MADHYA PRADESH
-http://125.17.129.6/PLTV/88888888/224/3221226376/01.m3u8
+http://125.17.129.6/PLTV/88888888/224/3221226376/index.m3u8
 
 #EXTINF:0, group-title="News",NATIONAL LIVE
 #EXTINF:0, group-title="News",HINDI KHABAR
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226249/index.m3u8
 
 #EXTINF:0, group-title="News",BANSAL NEWS
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/1.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/index.m3u8
 
 #EXTINF:0, group-title="News",BHARAT SAMACHAR
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226268/index.m3u8
@@ -359,7 +358,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225796/index.m3u8
 
 #EXTINF:0, group-title="News",REPUBLIC TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/index.m3u8
 
 #EXTINF:0, group-title="News",CNBC TV18
 
@@ -367,7 +366,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/chunklist_w1103706317_b512000.m3u8
 
 #EXTINF:0, group-title="News",NDTV PROFIT
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225781/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225781/index.m3u8
 
 #EXTINF:0, group-title="News",BLOOMBERG
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8
@@ -612,59 +611,138 @@ There are 24 Kids Channel with 4 HD channels
 Tamil Channel Lists
 There are 49 Tamil Channel with 3 HD channels
 
-747 CAPTAIN TV
-748 RAJ DIGITAL PLUS
-750 MEGA TV
-751 ZEE TAMIL
-753 PUTHU YUGAM
-754 SUN TV
-755 SUN TV (HIGH DEFINITION)
-756 KTV
-758 STAR VIJAY
-759 VIJAY (HIGH DEFINITION)
-760 KALAIGNAR TV
-762 JAYA TV
-764 RAJ TV
-766 POLIMER TV
-767 SIRIPPOLI
-768 MAKKAL TV
-769 ADITHYA TV
-770 VENDHAR TV
-771 VASANTH TV
-772 VIJAY SUPER
-773 NAAPTOL TAMIL
-774 MK TV
-775 MK SIX
-776 TAMILAN TV
-777 VANAVIL TV
-778 COLORS TAMIL
-778 J MOVIE
-783 NEWS 7 TAMIL
-784 PUTHIYA THALAIMURAI
-785 SEITHIGAL 24X7
-786 POLIMER NEWS
-787 THANTHI TV
-789 SUN NEWS
-790 JAYA PLUS
-791 MALAI MURASU TV
-792 SATHIYAM TV
-793 NEWS18 TAMILNADU
-795 WIN TV
-798 DISCOVERY TAMIL
-801 CHUTTI TV
-803 STAR SPORTS TAMIL
-805 ISAIARUVI
-806 SUN LIFE
-809 SUN MUSIC
-810 SUN MUSIC (HIGH DEFINITION)
-811 JAYA MAX
-812 MK TUNES
-814 AASEERVATHAM
-815 ANGEL TV
-816 MADHA TV
-817 NAMBIKAI TV
-820 DD PODHIGAI
-821 7S MUSIC
+#EXTINF:0, group-title="Tamil",CAPTAIN TV
+#EXTINF:0, group-title="Tamil",RAJ DIGITAL PLUS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226316/index.m3u8
+
+#EXTINF:0, group-title="Tamil",MEGA TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/index.m3u8
+
+#EXTINF:0, group-title="Tamil",ZEE TAMIL
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225929/index.m3u8
+
+#EXTINF:0, group-title="Tamil",PUTHU YUGAM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/index.m3u8
+
+#EXTINF:0, group-title="Tamil",SUN TV
+#EXTINF:0, group-title="Tamil",SUN TV (HIGH DEFINITION)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226523/index.m3u8
+
+#EXTINF:0, group-title="Tamil",KTV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226524/index.m3u8
+
+#EXTINF:0, group-title="Tamil",STAR VIJAY
+#EXTINF:0, group-title="Tamil",VIJAY (HIGH DEFINITION)
+#EXTINF:0, group-title="Tamil",KALAIGNAR TV
+http://125.17.129.12/PLTV/88888888/224/3221226091/index.m3u8
+
+#EXTINF:0, group-title="Tamil",JAYA TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/index.m3u8
+
+#EXTINF:0, group-title="Tamil",RAJ TV
+http://125.17.129.6/PLTV/88888888/224/3221226220/index.m3u8
+
+#EXTINF:0, group-title="Tamil",POLIMER TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/index.m3u8
+
+#EXTINF:0, group-title="Tamil",SIRIPPOLI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226221/index.m3u8
+
+#EXTINF:0, group-title="Tamil",MAKKAL TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226362/index.m3u8
+
+#EXTINF:0, group-title="Tamil",ADITHYA TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226511/index.m3u8
+
+#EXTINF:0, group-title="Tamil",VENDHAR TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+
+#EXTINF:0, group-title="Tamil",VASANTH TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:0, group-title="Tamil",VIJAY SUPER
+#EXTINF:0, group-title="Tamil",NAAPTOL TAMIL
+#EXTINF:0, group-title="Tamil",MK TV
+#EXTINF:0, group-title="Tamil",MK SIX
+#EXTINF:0, group-title="Tamil",TAMILAN TV
+http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
+
+#EXTINF:0, group-title="Tamil",VANAVIL TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:0, group-title="Tamil",COLORS TAMIL
+#EXTINF:0, group-title="Tamil",J MOVIE
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/index.m3u8
+
+#EXTINF:0, group-title="Tamil",NEWS 7 TAMIL
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226308/index.m3u8
+
+#EXTINF:0, group-title="Tamil",PUTHIYA THALAIMURAI
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226304/index.m3u8
+
+#EXTINF:0, group-title="Tamil",SEITHIGAL 24X7
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226318/index.m3u8
+
+#EXTINF:0, group-title="Tamil",POLIMER NEWS
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226283/index.m3u8
+
+#EXTINF:0, group-title="Tamil",THANTHI TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226219/index.m3u8
+
+#EXTINF:0, group-title="Tamil",SUN NEWS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226519/index.m3u8
+
+#EXTINF:0, group-title="Tamil",JAYA PLUS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226282/index.m3u8
+#EXTINF:0, group-title="Tamil",MALAI MURASU TV
+http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
+
+#EXTINF:0, group-title="Tamil",SATHIYAM TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226340/index.m3u8
+
+#EXTINF:0, group-title="Tamil",NEWS18 TAMILNADU
+#EXTINF:0, group-title="Tamil",WIN TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226251/index.m3u8
+
+#EXTINF:0, group-title="Tamil",DISCOVERY TAMIL
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/index.m3u8
+
+#EXTINF:0, group-title="Tamil",CHUTTI TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226525/index.m3u8
+
+#EXTINF:0, group-title="Tamil",STAR SPORTS TAMIL
+#EXTINF:0, group-title="Tamil",ISAIARUVI
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226303/index.m3u8
+
+#EXTINF:0, group-title="Tamil",SUN LIFE
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226536/index.m3u8
+
+#EXTINF:0, group-title="Tamil",SUN MUSIC
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226535/index.m3u8
+
+#EXTINF:0, group-title="Tamil",SUN MUSIC (HIGH DEFINITION)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226518/index.m3u8
+
+#EXTINF:0, group-title="Tamil",JAYA MAX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/index.m3u8
+
+#EXTINF:0, group-title="Tamil",MK TUNES
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/index.m3u8
+
+#EXTINF:0, group-title="Tamil",AASEERVATHAM
+#EXTINF:0, group-title="Tamil",ANGEL TV HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226400/index.m3u8
+
+#EXTINF:0, group-title="Tamil",MADHA TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226327/index.m3u8
+
+#EXTINF:0, group-title="Tamil",NAMBIKAI TV
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/index.m3u8
+
+#EXTINF:0, group-title="Tamil",DD PODHIGAI
+http://125.17.129.10/PLTV/88888888/224/3221226381/index.m3u8
+
+#EXTINF:0, group-title="Tamil",7S MUSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226213/index.m3u8
 
 Malayalam Channel Lists
 There are 31 Malayalam Channel with 2 HD channels
@@ -736,7 +814,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Telugu",STAR MAA TV
 #EXTINF:0, group-title="Telugu",STAR MAA (HIGH DEFINITION)
 #EXTINF:0, group-title="Telugu",ZEE TELUGU
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/index.m3u8
 
 #EXTINF:0, group-title="Telugu",GEMINI COMEDY
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226510/index.m3u8
@@ -752,43 +830,82 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Telugu",ETV CINEMA
 #EXTINF:0, group-title="Telugu",MAA MOVIES
 #EXTINF:0, group-title="Telugu",ZEE CINEMALU
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226098/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226098/index.m3u8
 
 #EXTINF:0, group-title="Telugu",ETV ANDHRA PRADESH
 #EXTINF:0, group-title="Telugu",TV9 TELUGU
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226142/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226142/index.m3u8
 
 #EXTINF:0, group-title="Telugu",NTV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226141/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226141/index.m3u8
 
 #EXTINF:0, group-title="Telugu",SAKSHI TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226306/1.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226306/index.m3u8
+
 #EXTINF:0, group-title="Telugu",ABN ANDHRA JYOTI
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226140/index.m3u8
+
 #EXTINF:0, group-title="Telugu",TV5 TELUGU
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226350/index.m3u8
+
 #EXTINF:0, group-title="Telugu",V6 NEWS
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226197/index.m3u8
+
 #EXTINF:0, group-title="Telugu",T NEWS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226307/index.m3u8
+
 #EXTINF:0, group-title="Telugu",ETV TELANGANA
 #EXTINF:0, group-title="Telugu",10TV TELUGU NEWS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/index.m3u8
+
 #EXTINF:0, group-title="Telugu",GEMINI NEWS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226520/index.m3u8
+
 #EXTINF:0, group-title="Telugu",RAJ NEWS TELUGU
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226254/index.m3u8
+
 #EXTINF:0, group-title="Telugu",STUDIO N NEWS
 #EXTINF:0, group-title="Telugu",CVR NEWS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226247/index.m3u8
+
 #EXTINF:0, group-title="Telugu",CVR ENGLISH
 #EXTINF:0, group-title="Telugu",KUSHI TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226405/index.m3u8
+
 #EXTINF:0, group-title="Telugu",GEMINI MUSIC
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226521/index.m3u8
+
 #EXTINF:0, group-title="Telugu",MAA MUSIC
 #EXTINF:0, group-title="Telugu",GEMINI LIFE
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226522/index.m3u8
+
 #EXTINF:0, group-title="Telugu",RAJ MUSIC TELUGU
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226256/index.m3u8
+
 #EXTINF:0, group-title="Telugu",ETV LIFE
 #EXTINF:0, group-title="Telugu",ETV ABHIRUCHI
 #EXTINF:0, group-title="Telugu",SVBC
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226415/index.m3u8
+
 #EXTINF:0, group-title="Telugu",SUBHAVAARTHA
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226352/index.m3u8
+
 #EXTINF:0, group-title="Telugu",BHAKTI TV
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226357/index.m3u8
+
 #EXTINF:0, group-title="Telugu",DIVIYAVANI TV
 #EXTINF:0, group-title="Telugu",ARADHANA TV
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226229/index.m3u8
+
 #EXTINF:0, group-title="Telugu",DD YADAGIRI
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226347/index.m3u8
+
 #EXTINF:0, group-title="Telugu",DD SAPTAGIRI
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226345/index.m3u8
+
 #EXTINF:0, group-title="Telugu",CVR OM SPIRITUAL
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226403/index.m3u8
+
 #EXTINF:0, group-title="Telugu",SHIV SHAKTI SAI
 
 Kannada Channel Lists
