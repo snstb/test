@@ -102,6 +102,14 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 
 
 #Hindi Movies Channel List
+#EXTINF:0, group-title="Movies",And Pictures
+https://z5ams.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movies",And Pictures HD
+https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movies",B4U Movies
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
 
 #EXTINF:0, group-title="Movies",SONY MAX
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
@@ -123,10 +131,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Movies",MAX 2
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
 
-#EXTINF:0, group-title="Movies",&PICTURES
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/index.m3u8
-
-#EXTINF:0, group-title="Movies",&PICTURES HD
 #EXTINF:0, group-title="Movies",UTV MOVIES
 
 #EXTINF:0, group-title="Movies",ZEE CLASSIC
@@ -134,6 +138,9 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
 
 #EXTINF:0, group-title="Movies",ZEE ACTION
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/index.m3u8
+
+#EXTINF:0, group-title="Movies",Manoranjan TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226227/index.m3u8
 
 #EXTINF:0, group-title="Movies",UTV ACTION
 #EXTINF:0, group-title="Movies",RISHTEY CINEPLEX
@@ -155,7 +162,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Movies",SKYSTAR MOVIES
 
 #EXTINF:0, group-title="Movies",MAHA MOVIES
-http://125.17.129.10/PLTV/88888888/224/3221226225/index.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226225/index.m3u8
 
 #EXTINF:0, group-title="Movies",CINEPLEX HD
 
@@ -281,6 +288,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="News",SUDARSHAN NEWS
 
 #EXTINF:0, group-title="News",APN NEWS
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
 #EXTINF:0, group-title="News",CNBC AWAAZ
 http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
@@ -376,12 +384,13 @@ https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/et
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225781/index.m3u8
 
 #EXTINF:0, group-title="News",BLOOMBERG
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8
+http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
 
 #EXTINF:0, group-title="News",BTVI
 http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/index.m3u8
 
 #EXTINF:0, group-title="News",MAGICBRICKS NOW
+
 #EXTINF:0, group-title="News",WION
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226363/index.m3u8
 
@@ -536,6 +545,9 @@ http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221
 
 #EXTINF:0, group-title="Music",ZEE ETC BOLLYWOOD
 http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/index.m3u8
+
+#EXTINF:0, group-title="Music",Zing
+https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Music",MASTIII
 http://cshms3.airtel.tv/wh7f454c46tw4016503803_1353658214/PLTV/88888888/224/3221226021/index.m3u8
