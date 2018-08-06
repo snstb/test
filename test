@@ -96,6 +96,7 @@ https://z5ams.akamaized.net/zeecafesd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Entertainment",COMEDY CENTRAL
 #EXTINF:0, group-title="Entertainment",COMEDY CENTRALHD
 #EXTINF:0, group-title="Entertainment",DISNEY INTERNATIONAL HD
+
 #EXTINF:0, group-title="Entertainment",TV5 MONDE ASIA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/index.m3u8
 
@@ -261,7 +262,7 @@ http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
 
 #EXTINF:0, group-title="News",IBN-7
-http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_5.m3u8
 
 #EXTINF:0, group-title="News",NEWS NATION
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/index.m3u8
@@ -276,15 +277,19 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226034/index.m3u8
 
 #EXTINF:0, group-title="News",SADHNA PRIME NEWS
+
 #EXTINF:0, group-title="News",SUDARSHAN NEWS
+
 #EXTINF:0, group-title="News",APN NEWS
+
 #EXTINF:0, group-title="News",CNBC AWAAZ
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
 
 #EXTINF:0, group-title="News",ZEE BUSINESS
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/index.m3u8
 
 #EXTINF:0, group-title="News",ETV RAJASTHAN
-https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_3_av-p.m3u8
+https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8
 
 #EXTINF:0, group-title="News",ZEE RAJASTHAN NEWS
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225928/index.m3u8
@@ -351,7 +356,7 @@ http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/master.m3u8
 https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
 
 #EXTINF:0, group-title="News",CNN-IBN
-http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
 
 #EXTINF:0, group-title="News",INDIA TODAY
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226423/index.m3u8
@@ -568,6 +573,7 @@ http://125.17.129.14/wh7f454c46tw3808542659_2027187969/PLTV/88888888/224/3221226
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225881/index.m3u8
 
 #EXTINF:0, group-title="Marathi",Zee Marathi HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225881/index.m3u8
 
 #EXTINF:0, group-title="Marathi",Colors Marathi
 
@@ -601,7 +607,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226366/index.m3u8
 
 #EXTINF:0, group-title="Marathi",IBN Lokmat
-http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_5.m3u8
 
 #EXTINF:0, group-title="Marathi",Zee 24 Taas
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/index.m3u8
@@ -978,7 +984,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 
 #EXTINF:0, group-title="Malayalam",NEWS18 KERALA
-https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_3_av-p.m3u8
+https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_5_av-p.m3u8
 
 #EXTINF:0, group-title="Malayalam",KAPPA TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226319/index.m3u8
