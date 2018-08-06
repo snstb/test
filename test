@@ -2,26 +2,26 @@
 #here are 37 Hindi Entertainment Channel with 7 HD channels.
 
 #EXTINF:0, group-title="Entertainment",STAR PLUS
-#EXTINF:0, group-title="Entertainment",STAR PLUS (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",STAR PLUS HD
 
 #EXTINF:0, group-title="Entertainment",ZEE TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
 
-#EXTINF:0, group-title="Entertainment",ZEE TV (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",ZEE TV HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",SONY
-#EXTINF:0, group-title="Entertainment",SONY (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",SONY HD
 #EXTINF:0, group-title="Entertainment",LIFE OK
-#EXTINF:0, group-title="Entertainment",LIFE OK (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",LIFE OK HD
 #EXTINF:0, group-title="Entertainment",COLORS
-#EXTINF:0, group-title="Entertainment",COLORS (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",COLORS HD
 #EXTINF:0, group-title="Entertainment",AIRTEL ENTERTAINMENT HOME
 
 #EXTINF:0, group-title="Entertainment",&TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/index.m3u8
 
-#EXTINF:0, group-title="Entertainment",&TV (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",&TV HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",HOME SHOP 18
@@ -35,7 +35,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Entertainment",SONY SAB
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8
 
-#EXTINF:0, group-title="Entertainment",SONY SAB (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",SONY SAB HD
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",NAPTOL GREEN /A2Z DOC
@@ -83,17 +83,17 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Entertainment",AXN HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8
 
-#EXTINF:0, group-title="Entertainment",STAR WORLD PREMIER (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",STAR WORLD PREMIER HD
 #EXTINF:0, group-title="Entertainment",STAR WORLD
-#EXTINF:0, group-title="Entertainment",STAR WORLD (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",STAR WORLD HD
 #EXTINF:0, group-title="Entertainment",ZEE CAFE
-#EXTINF:0, group-title="Entertainment",ZEE CAFE (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",ZEE CAFE HD
 #EXTINF:0, group-title="Entertainment",FX
-#EXTINF:0, group-title="Entertainment",FX (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",FX HD
 #EXTINF:0, group-title="Entertainment",COLORS INFINITY
-#EXTINF:0, group-title="Entertainment",COLORS INFINITY (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",COLORS INFINITY HD
 #EXTINF:0, group-title="Entertainment",COMEDY CENTRAL
-#EXTINF:0, group-title="Entertainment",COMEDY CENTRAL(HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",COMEDY CENTRALHD
 #EXTINF:0, group-title="Entertainment",DISNEY INTERNATIONAL HD
 #EXTINF:0, group-title="Entertainment",TV5 MONDE ASIA
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/index.m3u8
@@ -104,19 +104,19 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Movies",SONY MAX
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
 
-#EXTINF:0, group-title="Movies",SONY MAX (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",SONY MAX HD
 http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/index.m3u8
 
 #EXTINF:0, group-title="Movies",ZEE CINEMA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/index.m3u8
 
-#EXTINF:0, group-title="Movies",ZEE CINEMA (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",ZEE CINEMA HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
 
 #EXTINF:0, group-title="Movies",STAR GOLD
-#EXTINF:0, group-title="Movies",STAR GOLD (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",STAR GOLD HD
 #EXTINF:0, group-title="Movies",MOVIES OK
-#EXTINF:0, group-title="Movies",STAR GOLD SELECT (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",STAR GOLD SELECT HD
 
 #EXTINF:0, group-title="Movies",MAX 2
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
@@ -124,7 +124,7 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
 #EXTINF:0, group-title="Movies",&PICTURES
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/index.m3u8
 
-#EXTINF:0, group-title="Movies",&PICTURES (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",&PICTURES HD
 #EXTINF:0, group-title="Movies",UTV MOVIES
 
 #EXTINF:0, group-title="Movies",ZEE CLASSIC
@@ -155,52 +155,52 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Movies",MAHA MOVIES
 http://125.17.129.10/PLTV/88888888/224/3221226225/index.m3u8
 
-#EXTINF:0, group-title="Movies",CINEPLEX (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",CINEPLEX HD
 
 
 #English Movies Channel List
 
 #EXTINF:0, group-title="Movies",STAR MOVIES
-#EXTINF:0, group-title="Movies",STAR MOVIES (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",STAR MOVIES HD
 #EXTINF:0, group-title="Movies",HBO
-#EXTINF:0, group-title="Movies",HBO (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",HBO HD
 
 #EXTINF:0, group-title="Movies",SONY PIX
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
 
-#EXTINF:0, group-title="Movies",SONY PIX (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",SONY PIX HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/index.m3u8
 
 #EXTINF:0, group-title="Movies",MOVIES NOW
-#EXTINF:0, group-title="Movies",MOVIES NOW + (HIGH DEFINITION)
-#EXTINF:0, group-title="Movies",STAR MOVIES SELECT (HIGH DEFINITION)
-#EXTINF:0, group-title="Movies",MOVIES NOW (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",MOVIES NOW + HD
+#EXTINF:0, group-title="Movies",STAR MOVIES SELECT HD
+#EXTINF:0, group-title="Movies",MOVIES NOW HD
 #EXTINF:0, group-title="Movies",ROMEDY NOW
-#EXTINF:0, group-title="Movies",ROMEDY NOW (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",ROMEDY NOW HD
 #EXTINF:0, group-title="Movies",ZEE STUDIO
-#EXTINF:0, group-title="Movies",ZEE STUDIO (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",ZEE STUDIO HD
 #EXTINF:0, group-title="Movies",WB
 #EXTINF:0, group-title="Movies",STAR MOVIES ACTION
 #EXTINF:0, group-title="Movies",MOVIES NOW 2
-#EXTINF:0, group-title="Movies",MOVIES NOW 2 (HIGH DEFINITION)
-#EXTINF:0, group-title="Movies",LEPLEX (HIGH DEFINITION)
+#EXTINF:0, group-title="Movies",MOVIES NOW 2 HD
+#EXTINF:0, group-title="Movies",LEPLEX HD
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 
 
 #Sports Channel List
 
 #EXTINF:0, group-title="Sports",STAR SPORTS 1
-#EXTINF:0, group-title="Sports",STAR SPORTS 1 (HIGH DEFINITION)
+#EXTINF:0, group-title="Sports",STAR SPORTS 1 HD
 #EXTINF:0, group-title="Sports",STAR SPORTS 2
-#EXTINF:0, group-title="Sports",STAR SPORTS 2 (HIGH DEFINITION)
+#EXTINF:0, group-title="Sports",STAR SPORTS 2 HD
 #EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1
-#EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1 (HIGH DEFINITION)
+#EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1 HD
 #EXTINF:0, group-title="Sports",STAR SPORTS SELECT 1
 
 #EXTINF:0, group-title="Sports",SONY TEN 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
 
-#EXTINF:0, group-title="Sports",SONY TEN 1 (HIGH DEFINITION)
+#EXTINF:0, group-title="Sports",SONY TEN 1 HD
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/index.m3u8
 
 #EXTINF:0, group-title="Sports",SONY TEN 2
@@ -218,7 +218,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Sports",SONY SIX
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
 
-#EXTINF:0, group-title="Sports",SONY SIX (HIGH DEFINITION)
+#EXTINF:0, group-title="Sports",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
 
 #EXTINF:0, group-title="Sports",NEO SPORTS
@@ -230,14 +230,14 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Sports",SONY ESPN
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
 
-#EXTINF:0, group-title="Sports",SONY ESPN (HIGH DEFINITION)
+#EXTINF:0, group-title="Sports",SONY ESPN HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 
 #EXTINF:0, group-title="Sports",DD SPORTS
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
 
-#EXTINF:0, group-title="Sports",STAR SPORTS SELECT 1 (HIGH DEFINITION)
-#EXTINF:0, group-title="Sports",STAR SPORTS SELECT 2 (HIGH DEFINITION)
+#EXTINF:0, group-title="Sports",STAR SPORTS SELECT 1 HD
+#EXTINF:0, group-title="Sports",STAR SPORTS SELECT 2 HD
 #EXTINF:0, group-title="Sports",TRUE SPORTS
 #EXTINF:0, group-title="Sports",STAR SPORTS FIRST
 
@@ -402,7 +402,7 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:0, group-title="Lifestyle",TLC
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
 
-#EXTINF:0, group-title="Lifestyle",TLC (HIGH DEFINITION) WORLD
+#EXTINF:0, group-title="Lifestyle",TLC HD WORLD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
 
 #EXTINF:0, group-title="Lifestyle",NDTV GOOD TIMES
@@ -425,14 +425,14 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 
 #EXTINF:0, group-title="Infotainment",DISCOVERY CHANNEL
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:0, group-title="Infotainment",DISCOVERY WORLD (HIGH DEFINITION)
+#EXTINF:0, group-title="Infotainment",DISCOVERY WORLD HD
 #EXTINF:0, group-title="Infotainment",NATIONAL GEOGRAPHIC CHANNEL
-#EXTINF:0, group-title="Infotainment",NATIONAL GEOGRAPHIC (HIGH DEFINITION)
+#EXTINF:0, group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 #EXTINF:0, group-title="Infotainment",FOX LIFE
-#EXTINF:0, group-title="Infotainment",FOX LIFE (HIGH DEFINITION)
+#EXTINF:0, group-title="Infotainment",FOX LIFE HD
 #EXTINF:0, group-title="Infotainment",ANIMAL PLANET
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8
-#EXTINF:0, group-title="Infotainment",ANIMAL PLANET (HIGH DEFINITION) WORLD
+#EXTINF:0, group-title="Infotainment",ANIMAL PLANET HD WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:0, group-title="Infotainment",FYI TV18
 #EXTINF:0, group-title="Infotainment",DISCOVERY SCIENCE
@@ -440,12 +440,12 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Infotainment",DISCOVERY TURBO
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
 #EXTINF:0, group-title="Infotainment",HISTORY TV18
-#EXTINF:0, group-title="Infotainment",HISTORY TV18 (HIGH DEFINITION)
+#EXTINF:0, group-title="Infotainment",HISTORY TV18 HD
 #EXTINF:0, group-title="Infotainment",NAT GEO WILD
 #EXTINF:0, group-title="Infotainment",NAT GEO PEOPLE
 #EXTINF:0, group-title="Infotainment",SONY BBC EARTH
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/index.m3u8
-#EXTINF:0, group-title="Infotainment",SONY BBC EARTH (HIGH DEFINITION)
+#EXTINF:0, group-title="Infotainment",SONY BBC EARTH HD
 http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
 #EXTINF:0, group-title="Infotainment",OK INDIA
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226286/index.m3u8
@@ -460,7 +460,7 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 #EXTINF:0, group-title="Kids",POGO
 #EXTINF:0, group-title="Kids",HUNGAMA
 #EXTINF:0, group-title="Kids",NICK
-#EXTINF:0, group-title="Kids",NICK + (HIGH DEFINITION)
+#EXTINF:0, group-title="Kids",NICK + HD
 #EXTINF:0, group-title="Kids",DISNEY XD
 #EXTINF:0, group-title="Kids",DISNEY CHANNEL
 #EXTINF:0, group-title="Kids",SONIC
@@ -506,7 +506,7 @@ http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
 #EXTINF:0, group-title="Music",CHANNEL [ V ]
 #EXTINF:0, group-title="Music",MUSIC INDIA
-#EXTINF:0, group-title="Music",SONY ROX (HIGH DEFINITION)
+#EXTINF:0, group-title="Music",SONY ROX HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
 
 #EXTINF:0, group-title="Music",VH1
@@ -518,17 +518,17 @@ http://125.17.129.14/wh7f454c46tw3808542659_2027187969/PLTV/88888888/224/3221226
 
 #EXTINF:0, group-title="Marathi",Zee Marathi
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:0, group-title="Marathi",Zee Marathi (High Definition)
+#EXTINF:0, group-title="Marathi",Zee Marathi HD
 #EXTINF:0, group-title="Marathi",Colors Marathi
-#EXTINF:0, group-title="Marathi",Colors Marathi (High Definition)
+#EXTINF:0, group-title="Marathi",Colors Marathi HD
 #EXTINF:0, group-title="Marathi",STAR Pravah
-#EXTINF:0, group-title="Marathi",STAR Pravah (High Definition)
+#EXTINF:0, group-title="Marathi",STAR Pravah HD
 #EXTINF:0, group-title="Marathi",Zee Yuva
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/index.m3u8
 #EXTINF:0, group-title="Marathi",Naaptol Marathi
 #EXTINF:0, group-title="Marathi",Zee Talkies
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225921/index.m3u8
-#EXTINF:0, group-title="Marathi",Zee Talkies (High Definition)
+#EXTINF:0, group-title="Marathi",Zee Talkies HD
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226202/index.m3u8
 #EXTINF:0, group-title="Marathi",Maiboli
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226332/index.m3u8
@@ -673,11 +673,11 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Bengali",ZEE BANGLA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/index.m3u8
 
-#EXTINF:0, group-title="Bengali",ZEE BANGLA (HIGH DEFINITION)
+#EXTINF:0, group-title="Bengali",ZEE BANGLA HD
 #EXTINF:0, group-title="Bengali",COLORS BANGLA
-#EXTINF:0, group-title="Bengali",COLORS BANGLA (HIGH DEFINITION)
+#EXTINF:0, group-title="Bengali",COLORS BANGLA HD
 #EXTINF:0, group-title="Bengali",STAR JALSHA
-#EXTINF:0, group-title="Bengali",STAR JALSHA (HIGH DEFINITION)
+#EXTINF:0, group-title="Bengali",STAR JALSHA HD
 
 #EXTINF:0, group-title="Bengali",RUPOSHI BANGLA TV
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/index.m3u8
@@ -695,7 +695,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/index.m3u8
 
 #EXTINF:0, group-title="Bengali",JALSHA MOVIES
-#EXTINF:0, group-title="Bengali",JALSHA MOVIES (HIGH DEFINITION)
+#EXTINF:0, group-title="Bengali",JALSHA MOVIES HD
 #EXTINF:0, group-title="Bengali",24GHANTA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/index.m3u8
 
@@ -734,14 +734,14 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/index.m3u8
 
 #EXTINF:0, group-title="Tamil",SUN TV
-#EXTINF:0, group-title="Tamil",SUN TV (HIGH DEFINITION)
+#EXTINF:0, group-title="Tamil",SUN TV HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226523/index.m3u8
 
 #EXTINF:0, group-title="Tamil",KTV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226524/index.m3u8
 
 #EXTINF:0, group-title="Tamil",STAR VIJAY
-#EXTINF:0, group-title="Tamil",VIJAY (HIGH DEFINITION)
+#EXTINF:0, group-title="Tamil",VIJAY HD
 #EXTINF:0, group-title="Tamil",KALAIGNAR TV
 http://125.17.129.12/PLTV/88888888/224/3221226091/index.m3u8
 
@@ -828,7 +828,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Tamil",SUN MUSIC
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226535/index.m3u8
 
-#EXTINF:0, group-title="Tamil",SUN MUSIC (HIGH DEFINITION)
+#EXTINF:0, group-title="Tamil",SUN MUSIC HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226518/index.m3u8
 
 #EXTINF:0, group-title="Tamil",JAYA MAX
@@ -857,12 +857,12 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 #Malayalam Channel Lists
 
 #EXTINF:0, group-title="Malayalam",ASIANET
-#EXTINF:0, group-title="Malayalam",ASIANET (HIGH DEFINITION)
+#EXTINF:0, group-title="Malayalam",ASIANET HD
 #EXTINF:0, group-title="Malayalam",SURYA TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226527/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",MAZHAVIL MANORAMA
-#EXTINF:0, group-title="Malayalam",MAZHAVIL MANORAMA (HIGH DEFINITION)
+#EXTINF:0, group-title="Malayalam",MAZHAVIL MANORAMA HD
 #EXTINF:0, group-title="Malayalam",FLOWERS TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225838/index.m3u8
 
@@ -929,13 +929,13 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Telugu",GEMINI TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226532/index.m3u8
 
-#EXTINF:0, group-title="Telugu",GEMINI TV (HIGH DEFINITION)
+#EXTINF:0, group-title="Telugu",GEMINI TV HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226517/index.m3u8
 
 #EXTINF:0, group-title="Telugu",EENADU TV
-#EXTINF:0, group-title="Telugu",ETV (HIGH DEFINITION)
+#EXTINF:0, group-title="Telugu",ETV HD
 #EXTINF:0, group-title="Telugu",STAR MAA TV
-#EXTINF:0, group-title="Telugu",STAR MAA (HIGH DEFINITION)
+#EXTINF:0, group-title="Telugu",STAR MAA HD
 #EXTINF:0, group-title="Telugu",ZEE TELUGU
 http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/index.m3u8
 
@@ -1036,7 +1036,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 
 #EXTINF:0, group-title="Kannada",UDAYA TV
 #EXTINF:0, group-title="Kannada",COLORS KANNADA
-#EXTINF:0, group-title="Kannada",COLORS KANNADA (HIGH DEFINITION)
+#EXTINF:0, group-title="Kannada",COLORS KANNADA HD
 #EXTINF:0, group-title="Kannada",ZEE KANNADA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225936/index.m3u8
 
