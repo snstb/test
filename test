@@ -11,7 +11,11 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",SONY
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/index.m3u8
+
 #EXTINF:0, group-title="Entertainment",SONY HD
+http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/index.m3u8
+
 #EXTINF:0, group-title="Entertainment",LIFE OK
 #EXTINF:0, group-title="Entertainment",LIFE OK HD
 #EXTINF:0, group-title="Entertainment",COLORS
@@ -160,7 +164,8 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Movies",STAR UTSAV MOVIES
 #EXTINF:0, group-title="Movies",VAA MOVIES
 #EXTINF:0, group-title="Movies",SKYSTAR MOVIES
-
+#EXTINF:0, group-title="Movies",MANODRANJAN TV
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:0, group-title="Movies",MAHA MOVIES
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226225/index.m3u8
 
@@ -179,6 +184,9 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 
 #EXTINF:0, group-title="Movies",SONY PIX HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/index.m3u8
+
+#EXTINF:0, group-title="Movies",Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, group-title="Movies",MOVIES NOW
 #EXTINF:0, group-title="Movies",MOVIES NOW + HD
@@ -205,6 +213,15 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 #EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1
 #EXTINF:0, group-title="Sports",STAR SPORTS HINDI 1 HD
 #EXTINF:0, group-title="Sports",STAR SPORTS SELECT 1
+
+#EXTINF:0, group-title="Sports",FOX SPORTS
+http://rr.dens.tv/h/h19/index2.m3u8
+
+#EXTINF:0, group-title="Sports",FOX SPORTS 2
+http://rr.dens.tv/h/h20/index2.m3u8
+
+#EXTINF:0, group-title="Sports",FOX SPORTS 3
+http://rr.dens.tv/h/h21/index2.m3u8
 
 #EXTINF:0, group-title="Sports",SONY TEN 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
@@ -249,6 +266,21 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Sports",STAR SPORTS SELECT 2 HD
 #EXTINF:0, group-title="Sports",TRUE SPORTS
 #EXTINF:0, group-title="Sports",STAR SPORTS FIRST
+
+#EXTINF:0, group-title="Sports",AD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/index.m3u8
+
+#EXTINF:0, group-title="Sports",AD Sports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
+
+#EXTINF:0, group-title="Sports",AD Sports L1
+http://cshms3.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/index.m3u8
+
+#EXTINF:0, group-title="Sports",AD Sports L2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
+
+#EXTINF:0, group-title="Sports",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 
 #Hindi News Channel Lists
@@ -443,6 +475,7 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
 
 #EXTINF:0, group-title="Infotainment",DISCOVERY WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
 
 #EXTINF:0, group-title="Infotainment",NATIONAL GEOGRAPHIC CHANNEL
 
@@ -537,6 +570,9 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8
 
 #EXTINF:0, group-title="Music",MTV BEATS
 
+#EXTINF:0, group-title="Music",SONY ROX MUSIC HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
+
 #EXTINF:0, group-title="Music",9XM
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/index.m3u8
 
@@ -568,10 +604,8 @@ http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
 #EXTINF:0, group-title="Music",CHANNEL [ V ]
 
-#EXTINF:0, group-title="Music",MUSIC INDIA
-
-#EXTINF:0, group-title="Music",SONY ROX HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:0, group-title="Music",WOW HINDI MUSIC
+http://cshms3.airtel.tv/wh7f454c46tw2509066654_38357389/PLTV/88888888/224/3221226477/index.m3u8
 
 #EXTINF:0, group-title="Music",VH1
 
@@ -916,6 +950,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/index.m3u8
 
 #EXTINF:0, group-title="Tamil",AASEERVATHAM
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226262/index.m3u8
 
 #EXTINF:0, group-title="Tamil",ANGEL TV HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226400/index.m3u8
@@ -931,6 +966,9 @@ http://125.17.129.10/PLTV/88888888/224/3221226381/index.m3u8
 
 #EXTINF:0, group-title="Tamil",7S MUSIC
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226213/index.m3u8
+
+#EXTINF:0, group-title="Tamil",Polimer Music
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/01.m3u8
 
 
 #Malayalam Channel Lists
