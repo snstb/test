@@ -489,7 +489,7 @@ http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221
 http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/index.m3u8
 
 #EXTINF:0, group-title="Music",MASTIII
-http://125.17.129.8/wh7f454c46tw4016503803_1353658214/PLTV/88888888/224/3221226021/index.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4016503803_1353658214/PLTV/88888888/224/3221226021/index.m3u8
 
 #EXTINF:0, group-title="Music",E24
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/index.m3u8
@@ -567,20 +567,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226379/index.m3u8
 
 
-#Gujarati Channel Lists
-
-#EXTINF:0, group-title="Gujarati",COLORS GUJARATI
-#EXTINF:0, group-title="Gujarati",ETV NEWS GUJARATI
-#EXTINF:0, group-title="Gujarati",TV9 GUJARATI
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226113/index.m3u8
-#EXTINF:0, group-title="Gujarati",CNBC BAJAR
-#EXTINF:0, group-title="Gujarati",VTV NEWS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:0, group-title="Gujarati",SANDESH NEWS
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225852/index.m3u8
-#EXTINF:0, group-title="Gujarati",DD GIRNAR
-
-
 #Oriya Channel Lists
 
 #EXTINF:0, group-title="Oriya",
@@ -622,50 +608,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226386/index.m3u8
 #EXTINF:0, group-title="Urdu",MUNSIF TV
 #EXTINF:0, group-title="Urdu",MECCA MEDINA 24*7
-
-
-#Assamese Channel Lists
-
-#EXTINF:0, group-title="Assamese",RENGONI
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226364/index.m3u8
-#EXTINF:0, group-title="Assamese",RANG
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226106/index.m3u8
-#EXTINF:0, group-title="Assamese",JONACK TV
-#EXTINF:0, group-title="Assamese",RAMDHENU
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226358/index.m3u8
-#EXTINF:0, group-title="Assamese",PRAG NEWS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226110/index.m3u8
-#EXTINF:0, group-title="Assamese",PROTIDIN TIME
-#EXTINF:0, group-title="Assamese",ASSAM TALKS
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:0, group-title="Assamese",NEWS LIVE
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226108/index.m3u8
-#EXTINF:0, group-title="Assamese",NEPAL 1
-#EXTINF:0, group-title="Assamese",DY365
-#EXTINF:0, group-title="Assamese",NEWS18 ASSAM/NORTH EAST
-#EXTINF:0, group-title="Assamese",DD NORTH EAST
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226300/index.m3u8
-
-
-#Bhojpuri Channel Lists
-
-#EXTINF:0, group-title="Bhojpuri",HAMARA SANIMA
-#EXTINF:0, group-title="Bhojpuri",DANGAL
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226029/index.m3u8
-#EXTINF:0, group-title="Bhojpuri",BIG GANGA
-#EXTINF:0, group-title="Bhojpuri",MAHUAA TV
-http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
-#EXTINF:0, group-title="Bhojpuri",DABANGG
-#EXTINF:0, group-title="Bhojpuri",ANJAN TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:0, group-title="Bhojpuri",ZEE PURVAYIYA
-#EXTINF:0, group-title="Bhojpuri",OSCAR MOVIES
-#EXTINF:0, group-title="Bhojpuri",BHOJPURI CINEMA
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226056/index.m3u8
-#EXTINF:0, group-title="Bhojpuri",ETV BIHAR/JHARKHAND
-#EXTINF:0, group-title="Bhojpuri",SANGEETH BHOJPURI
-#EXTINF:0, group-title="Bhojpuri",DD BIHAR
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226385/index.m3u8
 
 
 #Bengali Channel Lists
