@@ -998,13 +998,15 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Malayalam",KAIRALI TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/index.m3u8
 
-#EXTINF:0, group-title="Malayalam",JAI HIND TV
+#EXTINF:0, group-title="Malayalam",JAIHIND TV
+http://cdn.asianetmobiletvplus.com/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs_hls/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs_master.m3u8
 
 #EXTINF:0, group-title="Malayalam",ASIANET MOVIES
 
 #EXTINF:0, group-title="Malayalam",NAPTOL MALAYALAM
 
 #EXTINF:0, group-title="Malayalam",ASIANET PLUS
+http://cdn.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",AMRITA
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226310/index.m3u8
@@ -1016,8 +1018,10 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226301/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",HARVEST TV
+http://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
 
 #EXTINF:0, group-title="Malayalam",POWERVISION INDIA
+http://cdn.asianetmobiletvplus.online/channels/powervision_feplsuzwbrdbzuvlclqpbmasjiaesfor_hls/powervision_feplsuzwbrdbzuvlclqpbmasjiaesfor_master.m3u8
 
 #EXTINF:0, group-title="Malayalam",SURYA MUSIC
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226526/index.m3u8
@@ -1038,6 +1042,7 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226405/index.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",MANORAMA NEWS
+http://cdn.asianetmobiletvplus.online/channels/manoramanews_khujpzhfjosnncdyhwyhlgmgycndlucl/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",ASIANET NEWS
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
